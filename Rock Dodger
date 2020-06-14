@@ -40,7 +40,7 @@ function createRock(x) {
   var top = 0
   rock.style.top = `${top}px`
   if (levelChangeRock==5){
-    //debugger
+    //debugger2
     gameLevel++
     speed++
     levelChangeRock=0
